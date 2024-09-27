@@ -1,5 +1,7 @@
 #Python
 
+[Link to Another Note] (./subprocess-windows.md)
+
 The `subprocess` module in Python allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes. It is particularly useful when you need to execute external commands from your Python script, such as interacting with the Linux shell or other command-line tools.
 
 Here’s a basic guide on how to use `subprocess` effectively:
