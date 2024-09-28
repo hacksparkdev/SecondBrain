@@ -1,5 +1,19 @@
 #logroot
 
-- [X] Create ElkStack Workflow.
 
-- [ ] Create Collaborative System
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+|--------|---------|-----------|----------|--------|----------|--------|
+|- []    |Create Elk Stack Log workflog         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
+|        |         |           |          |        |          |        |
