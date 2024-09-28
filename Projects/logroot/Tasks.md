@@ -2,4 +2,4 @@
 
 - [X] Create ElkStack Workflow.
 
-- [] Create Collaborative System
+- [ ] Create Collaborative System
