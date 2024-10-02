@@ -7,7 +7,8 @@ app.use(express.json());
 
 app.post('/info', (req, res) => {
   const { name, email } = req.body;
-  res.send(`Here is your json ${name} ${body}`)
+  res.send(`Here is your json ${name} ${email}`)
+  console.log(req.body)
 })
 
 

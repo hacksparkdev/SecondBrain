@@ -1,7 +1,7 @@
 import requests
 import json 
 
-url = 'http://10.0.100.16:3000'
+url = 'http://10.0.100.16:3000/info'
 
 data = {
     "name": "Corey Jones",
